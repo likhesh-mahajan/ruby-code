@@ -5,4 +5,4 @@ name = gets
 puts 'Hello ' + name
 puts '\n'
 puts 'Your name has ' +name.length.to_s+ ' letters'
-puts '\n'
+puts '\n' 
